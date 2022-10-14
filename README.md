@@ -12,7 +12,7 @@ Unlike JDBC drivers which are blocking, MongoDB gives better interaction as it i
 ## Docker and Docker-Compose
 
 Docker is a good approach to create isolated instances. Docker-compose is a tool to define and run these instances.
-To run Docker with the actual configuration, just enter the directory */mongodb* and simply run the command:
+To run Docker with the actual configuration, just enter the directory */config* and simply run the command:
 ```bash
 docker compose up
 ```
